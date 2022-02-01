@@ -1,0 +1,23 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\TokenSite\\\\FrontEnd\\\\nuxt_auth\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_c4f2384c"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\TokenSite\\\\FrontEnd\\\\nuxt_auth\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_529e6ec2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\TokenSite\\\\FrontEnd\\\\nuxt_auth\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_58417e7a"
+  }
+]
